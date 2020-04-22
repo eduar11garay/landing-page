@@ -3,7 +3,7 @@
 ===============================================================<br/>
 Bajo la licencia "Creative Commons Zero v1.0".<br/>
 **Versión v1.0:**
-La primer versión de la página.
+La primer versión de la página.<br/>
 **Versión v2.0:**
 Se cambió el problema de los links hacia _Instagram_.
 y se modificó el problema del logo.<br/>
