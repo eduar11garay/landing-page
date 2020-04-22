@@ -10,11 +10,14 @@ y se modificó el problema del logo.
 Aquí la parte que se modificó:
 
 ```html
-  <div class="netw">
-			<a href="https://www.instagram.com/?hl=es-la" target="_blank">
-				<i class="fab fa-instagram-square fa-3x"></i>
-			</a>
-				<h3>Instagram</h3>
-				<p>¿Quieres conocerme? Sígueme para ver que mi vida es interesante y a veces doy tips de programación ahí.</p>
-		</div>
+<!-- LINK INCORRECTO -->
+<div class="netw">
+	<a href="https://www.instagram.com/?hl=es-la" target="_blank">
+		<i class="fab fa-instagram-square fa-3x"></i>
+	</a>
+	<h3>Instagram</h3>
+	<p>
+		¿Quieres conocerme? Sígueme para ver que mi vida es interesante y a veces doy tips de programación ahí.
+	</p>
+</div>
 ```
